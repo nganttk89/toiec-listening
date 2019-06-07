@@ -3,6 +3,15 @@ header {
     color: #fff;
     text-align: center;
     padding: 10px;
+    text-transform: uppercase;
+}
+header a {
+    color: #fff;
+    font-size: 28px;
+}
+header a:hover {
+    text-decoration: none;
+    color: #fff;
 }
 .quiz {
     max-width: 300px;
